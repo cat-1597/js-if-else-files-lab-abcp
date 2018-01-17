@@ -1,6 +1,6 @@
-var name = "Susan"
+var name = "Bob"
 
-var height = 90
+var height = "70"
 
 
 // Don't worry about this
